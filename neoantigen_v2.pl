@@ -5,10 +5,6 @@
 ### HLA_file format: M18H1996W1L1	A*24:02	A*11:01	B*13:01	B*51:02	C*03:04	C*01:02 , tab split
 ### mutation_file: must contain sample_id_col gene_id_col NM_id_col cdot_col pdot_col vaf_col , tab split
 ### aa_length: peptide length across the mutation site
-### author: wangj@origimed.com
-### version: v2
-### date: 2018-10-25
-### update: 2018-10-31
 ### modify:
 #          1. add change of translation termination codon (stop codon, no-stop change)
 
