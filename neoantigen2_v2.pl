@@ -5,8 +5,7 @@ use Bio::DB::GenBank;
 use Bio::SeqIO;  
 use Text::Wrap;
 use Data::Dumper;
-#use lib '/work/home/OM/wangj/project/perl'; 
-#use BioSeq;
+
 
 die "\nUsage: perl neoantigen.pl HLA_file mutation_file output_file sample_id_col gene_id_col NM_id_col cdot_col pdot_col vaf_col aa_length\n\n" unless @ARGV==10;
 
